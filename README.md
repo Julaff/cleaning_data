@@ -2,8 +2,8 @@ Getting and Cleaning Data - Course Project
 ==========================================
 Preparing tidy data from smartphones accelerometers measurements
 ----------------------------------------------------------------
-The data comes from an experiment carried out with a group of 30 volunteers wearing a smartphone on which measurements have been taken from it's accelerometer while the subjects were performing specific activities.  
-The full description is available in the `README.txt` file inside the `UCI HAR Dataset` folder.
+The data comes from an experiment carried out with a group of 30 volunteers wearing a smartphone on which measurements have been taken either from it's accelerometer or it's gyroscope, while the subjects were performing specific activities.  
+The full description of the variables is available in the `Codebook.md` file.
 ***
 ### Description of the run_analysis.R script
 The goal of this script is to build tidy data out of a set of raw data, following the five steps presented in the assignment :
